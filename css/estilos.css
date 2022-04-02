@@ -1,0 +1,36 @@
+.bg--gris{
+background-color: darkgray;
+}
+
+.m--top-10{
+    margin-top: 10px;
+}
+
+hr{
+    height:3px !important;
+}
+
+.esp--separador{
+    margin-top: 1rem;
+}
+
+.centro-text{
+    display:flex;
+    align-items: center;
+}
+
+#sec1{
+    margin-top: 200px;
+}
+
+@media (min-width: 576px) { 
+    #sec1{
+        margin-top: 150px;
+    }
+}
+
+.imgnormalizada--img {
+    height: 450px;
+    max-height: 600px;
+}
+

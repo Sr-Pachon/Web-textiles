@@ -19,7 +19,7 @@ hr{
     align-items: center;
 }
 
-#sec1{
+#seccion1{
     margin-top: 200px;
 }
 
@@ -34,3 +34,12 @@ hr{
     max-height: 600px;
 }
 
+h1{
+    font-family: 'Aclonica', sans-serif;
+    color:rgb(34, 1, 8);
+}
+
+.estilo--letra{
+    font-family: 'Andada Pro', serif;
+    color:rgb(82, 10, 10);
+}

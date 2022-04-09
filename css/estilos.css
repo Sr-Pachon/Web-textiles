@@ -34,6 +34,11 @@ hr{
     max-height: 600px;
 }
 
+.imgperfil--img {
+    height: 300px;
+    max-height: 300px;
+}
+
 h1{
     font-family: 'Aclonica', sans-serif;
     color:rgb(34, 1, 8);
